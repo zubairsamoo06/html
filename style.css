@@ -1,0 +1,31 @@
+h1{
+    color: darkblue;
+    text-align: center;
+}
+.two{
+    color: blue;
+    text-align: center;
+}
+.three{
+    background-image: url("abc5.jpg");
+    width:500% ;
+    height:500px;
+    background-size: cover;
+    background-repeat: no-repeatS;
+    background-position: center;
+    background-attachment: fixeD;
+}
+.five{
+
+    width: 20%;
+    height: 50;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    background-attachment: fixeD;
+   
+}
+td,th{
+    border: 5px solid chocolate;
+  color: aliceblue;
+}
